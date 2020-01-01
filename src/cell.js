@@ -19,3 +19,5 @@ render(){
     </div>
   )
 }
+
+export default Cell
